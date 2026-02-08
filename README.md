@@ -67,7 +67,7 @@ This project was completed collaboratively.
 
 - **Muhammad Taqi**
 - **[Shayaan Qazi](https://github.com/shayaanhu)**
-- **Adina Adnan Mansoor**
+- **[Adina Adnan](https://github.com/adinaadnan)**
 
 ---
 
